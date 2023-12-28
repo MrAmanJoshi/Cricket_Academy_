@@ -12,7 +12,11 @@ const Footer = () => {
         <div className="flex justify-center mb-5">
           <FiPhoneCall className="text-xl text-white mr-2" />
           <p className="text-white sm:text-lg mr-1 font-serif"> 7298543999</p>
+<FiPhoneCall className="text-xl text-white ml-4 mr-2" />
+          <p className="text-white sm:text-lg mr-1 font-serif"> 8650555532</p>
         </div>
+
+        
         <div className="flex justify-center mb-5 text-center text-white">
           <HiOutlineMail className="text-xl mt-1 mr-2" />
           <p className="text-lg">nationalyoungcricketleague@gmail.com</p>

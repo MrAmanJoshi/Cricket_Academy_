@@ -3,13 +3,13 @@ import React from "react";
 const ClubMembership = () => {
   return (
 
-    <div className="text-justify text-lg font-medium mx-3 sm:mx-8">
-      <h1 className="text-gray-800 text-4xl font-bold text-center mt-36 sm:mt-[260px]">Club Membership</h1>
+    <div className="text-justify text-lg font-medium px-2 sm:px-6 sm:mx-8 bg-orange-100 py-14 rounded-lg mt-[102px] sm:mt-[260px]">
+      <h1 className="text-gray-800 text-4xl font-bold  text-center ">Club Membership</h1>
       <h4 className="text-blue-800 text-2xl text-center underline underline-offset-1 font-bold  my-12 "> How to join the club</h4>
 
 <ul className=" list-disc ml-4 list-outside">
   
- <li className="mt-4">To join the club, you must first join the NYCS, whose minimum fee is only 500 is placed. (No fee for US players below poverty level but certificate is mandatory)
+ <li className="mt-4">To join the club, you must first join the NYCL, whose minimum fee is only 500 is placed. (No fee for US players below poverty level but certificate is mandatory)
  </li>
 
   <li className="mt-4">After that the trial of the child will be taken according to the age limit. </li>
@@ -32,7 +32,7 @@ const ClubMembership = () => {
   </ul>
 
 <ul className="list-none list-outside ml-4">  
-<li className="list-disc mt-4"> Prime will be given in all matches</li>
+<li className="list-disc mt-4"> Price will be given in all matches</li>
 
 <li className=" mt-2">(a). Best bowler</li>
 

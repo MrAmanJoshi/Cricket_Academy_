@@ -13,3 +13,8 @@ export default {
     }
   }
 }
+// export default defineConfig({
+//   plugins: [react({
+//     jsxRuntime: 'classic' // Add this line
+//   }), viteTsconfigPaths(), svgrPlugin()],
+// });
